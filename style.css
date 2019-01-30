@@ -58,3 +58,11 @@ h1 {
 p {
     font-size: 2em !important;
 }
+
+.codecolor {
+    background-color: #000000;
+    color: #00FF00; 
+    margin-left: 20%;
+    margin-right: 30%;
+    width: 50%;
+}
